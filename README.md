@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://iamaslamkhan.github.io/Portfolio-Website//" target="_blank">**Visit Now** 🚀</a>
+<a href="https://aslamkhan.netlify.app//" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
