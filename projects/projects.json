@@ -1,35 +1,5 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
-    "links": {
-      "view": "https://iamaslamkhan.github.io/Work-inProgress/",
-      "code": "https://iamaslamkhan.github.io/Work-inProgress/"
-    }
-  },
-  {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
-    "category": "android",
-    "links": {
-      "view": "https://iamaslamkhan.github.io/Work-inProgress/",
-      "code": "https://iamaslamkhan.github.io/Work-inProgress/"
-    }
-  },
-  {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
-    "category": "android",
-    "links": {
-      "view": "https://iamaslamkhan.github.io/Work-inProgress/",
-      "code": "https://iamaslamkhan.github.io/Work-inProgress/"
-    }
-  },
-  {
     "name": "Weatherly Android",
     "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
     "image": "weatherlyandroid",
@@ -270,16 +240,6 @@
     }
   },
   {
-    "name": "Old Websites",
-    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "oldsites",
-    "category": "basicweb",
-    "links": {
-      "view": "https://iamaslamkhan.github.io/Work-inProgress/",
-      "code": "https://iamaslamkhan.github.io/Work-inProgress/"
-    }
-  },
-  {
     "name": "Resistor Color Codes",
     "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
     "image": "resistercolor",
@@ -303,26 +263,6 @@
     "name": "Burger Shop Dummy",
     "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
     "image": "burgerweb",
-    "category": "basicweb",
-    "links": {
-      "view": "https://iamaslamkhan.github.io/Work-inProgress/",
-      "code": "https://iamaslamkhan.github.io/Work-inProgress/"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "https://iamaslamkhan.github.io/Work-inProgress/",
-      "code": "https://iamaslamkhan.github.io/Work-inProgress/"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
     "category": "basicweb",
     "links": {
       "view": "https://iamaslamkhan.github.io/Work-inProgress/",
